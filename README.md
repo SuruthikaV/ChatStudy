@@ -133,7 +133,7 @@ while True:
 conn.close()
 ```
 ## Output:
-<img width="966" height="277" alt="Screenshot (62)" src="https://github.com/user-attachments/assets/d83472d2-e19b-48e2-8aad-03970fb9888a" />
+<img width="966" height="277" alt="Screenshot (62)" src="https://github.com/user-attachments/assets/d83472d2-e19b-48e2-8aad-03970fb9888a" /> 
 
 ## Result:
 
